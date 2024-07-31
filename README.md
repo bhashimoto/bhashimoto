@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi, I'm Bruno Hashimoto
+I'm a software developer based in Rio de Janeiro, Brazil. I'm  currently learning Go, building a cost splitting web app called [Ratata](https://github.com/bhashimoto/ratata).
 
 <!--
 **bhashimoto/bhashimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
