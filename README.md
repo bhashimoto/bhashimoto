@@ -1,5 +1,5 @@
 ## Hi, I'm Bruno Hashimoto
-I'm a software developer based in Rio de Janeiro, Brazil. I'm  currently learning Go, building a cost splitting web app called [Ratata](https://github.com/bhashimoto/ratata).
+I'm a software developer based in Rio de Janeiro, Brazil. I'm  currently building a cost splitting web app called [Ratata](https://github.com/bhashimoto/raticate).
 <p align="center">
   <img id="top-langs" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhashimoto&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />  
 </p>
